@@ -1,4 +1,4 @@
-# Project 3: Testing for Cross-Site Request Forgery (CSRF) Vulnerabilities
+# Project : Testing for Cross-Site Request Forgery (CSRF) Vulnerabilities
 ## Introduction
 Cross-Site Request Forgery (CSRF) is a web security vulnerability that allows an attacker to trick a user into performing actions that they do not intend to perform. This can include changing account details, making unauthorized transactions, or any action that the user is authorized to perform. In this project, you will learn how to identify and exploit CSRF vulnerabilities using Google Gruyere, a web application specifically designed for security training.
 
